@@ -101,6 +101,9 @@ ul{
 
 @media (max-width:410px)
 {
+    .container__header{
+        margin-top: 33%;
+    }
     .btn{
         width: 11%;
     }
